@@ -1,6 +1,6 @@
-# Echo-Labyrinth 🌀
+# Echo-Location 🌀
 
-**Echo-Labyrinth** es una experiencia de exploración atmosférica y navegación técnica en primera persona desarrollada en Unity. El jugador se encuentra atrapado en un laberinto de dimensiones masivas sumido en la oscuridad absoluta, donde el sonido es la única herramienta para revelar el entorno.
+**Echo-Location** es una experiencia de exploración atmosférica y navegación técnica en primera persona desarrollada en Unity. El jugador se encuentra atrapado en un laberinto de dimensiones masivas sumido en la oscuridad absoluta, donde el sonido es la única herramienta para revelar el entorno.
 
 ---
 
